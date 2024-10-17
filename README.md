@@ -47,7 +47,7 @@ Customers could be grouped into 3 main segments based on their activity and plan
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/saas-customer-segmentation.git
+   git clone https://github.com/ffarishelmi/SaaS-Customer-Segmentation-and-Discount-Analysis.git
    ```
 2. Install the additional dependencies:
    ```sh
