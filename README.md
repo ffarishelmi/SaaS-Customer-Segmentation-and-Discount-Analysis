@@ -4,6 +4,8 @@
 
 A data-driven project focused on segmenting SaaS customers using data aggregation and analyzing discount strategies to optimize sales and profit. Includes detailed EDA, customer segmentation, and actionable insights to improve marketing campaigns and customer retention.
 
+**Dashboard Visualization link: https://public.tableau.com/app/profile/faris.helmi/viz/shared/MT7HJPX38**
+
 ## Project Overview
 
 This project focuses on segmenting customers of a SaaS (Software as a Service) company and analyzing discount strategies. The goal is to understand customer behavior, group similar customers together using data aggregation techniques, and analyze how discounts impact sales and profit. By leveraging customer segmentation, we aim to create more targeted marketing strategies and improve business performance.
